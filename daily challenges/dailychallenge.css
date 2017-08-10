@@ -1,0 +1,13 @@
+html{
+	background-image: url("https://images5.alphacoders.com/389/389718.jpg");
+	background-repeat: no-repeat;
+	background-size:auto;
+	margin: auto;
+	color: #291A79;
+}
+form{
+	position: absolute;
+	background-color: #fff;
+	left:700px;
+	top: 300px;
+}
